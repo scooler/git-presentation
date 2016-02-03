@@ -1,0 +1,4 @@
+GIT
+- what is it
+- structure (FYI)
+
