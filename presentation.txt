@@ -1,7 +1,2 @@
 GIT
-- what is it
-- structure (FYI)
-
-- useful stuff - branch, tag
-- useful stuff - merge - rebase difference
 
