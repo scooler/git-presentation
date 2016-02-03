@@ -1,2 +1,3 @@
 GIT
 - git-flow (blob-post, whiteboard)
+- my prefered way - at this point I guess XD
