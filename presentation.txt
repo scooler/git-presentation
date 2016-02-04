@@ -6,4 +6,4 @@ GIT
 - useful stuff - branch, tag
 
 - useful stuff - merge - rebase difference
-
+- What's up with the HEAD
