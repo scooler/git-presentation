@@ -1,2 +1,3 @@
 GIT
 - bisect - FYI
+- update-index --assume-unchanged - FYI
