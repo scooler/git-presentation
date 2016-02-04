@@ -1,3 +1,4 @@
 GIT
 - bisect - FYI
 - update-index --assume-unchanged - FYI
+- rebase -i - WATCH THE FUCK OUT
