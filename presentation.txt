@@ -4,3 +4,4 @@ GIT
 - diff (difftools, --ignore-all-whitespace)
 - commit --amend
 - reset HEAD (~)
+- checkout branch/commit/HEAD~1
