@@ -1,7 +1,2 @@
 GIT
-- -p option
-- stash options (pop, apply, drop, clear)
-- diff (difftools, --ignore-all-whitespace)
-- commit --amend
-- reset HEAD (~)
-- checkout branch/commit/HEAD~1
+- bisect - FYI
