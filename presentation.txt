@@ -1,2 +1,3 @@
 GIT
 - -p option
+- stash options (pop, apply, drop, clear)
