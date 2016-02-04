@@ -2,4 +2,5 @@ GIT
 - -p option
 - stash options (pop, apply, drop, clear)
 - diff (difftools, --ignore-all-whitespace)
-
+- commit --amend
+- reset HEAD (~)
